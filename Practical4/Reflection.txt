@@ -1,0 +1,9 @@
+My reflection:
+I did most of things well. But I found difficulties in the command ‘git revert’ at first.
+Fortunately, I solved it with the help of friends and teachers.
+Also, the rate of pushing and cloning is really low. 
+Therefore, I take much time to wait these and finally get the feedback 
+‘Connection timed out’ once and once again.
+I thought this practical was really useful. It can let me be familiar with 
+several commands in Linux system and git.
+
