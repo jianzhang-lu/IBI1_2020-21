@@ -1,6 +1,6 @@
 # Int n =84
 # We should input the value of r manually
-# Repeat 5 times and every time let new n=n*r
+# Repeat 5 times and every time let new n=n*r+n
 # Since the type of content in the input is str, we should convert it to double or int to do calculate.
 # Print the sentence we need. 
 

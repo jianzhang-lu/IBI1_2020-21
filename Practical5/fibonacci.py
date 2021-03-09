@@ -1,7 +1,7 @@
-# int the origin value a=1, b=1
-# repeat for another 11 times
-# int again: if it is the odd time: a=a+b
-#            if it is the even time: b=a+b
+# int the origin value a=1, b=1, 2, 3, 5, 8...
+# must repeat for another 11 times
+# int again: if it is the odd time: a=a+b, for the first part, a=2,b=1 and print a. 
+#            if it is the even time: b=a+b for the second part, a=2,b=3 and print b
 # print every value of the first 13 value
 
 
