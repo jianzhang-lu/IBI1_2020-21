@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 x={'USA':29862124, 'Inida':11285561, 'Brazil':11205972, 'Russia':4360823, 'UK':4234924}
 # create a dictionary to include all data
 labels=x.keys()
+print(type(labels))
 # create labels to represent all keys in dictionary 'x'.
 sizes=x.values()
 # create sizes to represent all values in dictionary 'x'
