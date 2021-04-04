@@ -10,9 +10,7 @@ for i in x:
         b=re.sub(r'\n','',new_item)
         c=len(b)
         for e in a:
-            file2.write(e)
-            file2.write('\t\t\t')
-            file2.write(str(c))
+            file2.write(f'{e:14}{c}')
             file2.write(new_item)
 file1.close()
 file2.close()
