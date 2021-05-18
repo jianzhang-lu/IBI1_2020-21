@@ -1,0 +1,4 @@
+My formative feedback told me that I have some small mistakes.
+In week 4, I forgot to correct the file, so it was the same as professor's. I have replaced the template file with my own information. This change can only affect my github but cannot change the content in professor's github. 
+In week 5, I missed a parenthesis in the end of my code.This is caused by my carelessness. Therefore, I have added it and got the correct code.
+In week 6, I made no mistake and everything goes well.
